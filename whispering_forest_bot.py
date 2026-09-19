@@ -2,10 +2,10 @@ import discord
 from discord.ext import commands
 import random
 
-TOKEN = "MTQwMzgyNDMzNTkwNjUzNzU4Mw.GaG9LE.B5ZncVn9fBXxNSTeFJOEJM2nk4LCiVdjJv53q4"  # Đừng public token thật
+TOKEN = "123"  # Đừng public token thật
 
 # ID kênh chỉ dành riêng cho bot
-WELCOME_CHANNEL_ID = 1403834510289801299
+WELCOME_CHANNEL_ID = 12
 
 intents = discord.Intents.default()
 intents.message_content = True
